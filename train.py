@@ -12,7 +12,7 @@ def start():
     num_classes = 10
     epochs = 12
 
-    # input image dimensions
+    # input mage dimensions
     img_rows, img_cols = 28, 28
 
     # the data, split between train and test sets
